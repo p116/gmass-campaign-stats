@@ -1,4 +1,4 @@
-# GMass Email Tracker
+# GMass Campaign Visualizer
 
 This program is a simple Streamlit app that allows users to track and visualize the email open rates for campaigns using the GMass API.
 
